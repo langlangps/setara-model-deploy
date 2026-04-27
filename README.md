@@ -9,7 +9,7 @@ Model ini mengklasifiikasikan judul-judul berita sebagai
 ## Download Model Terlebih Dahulu
 
 Sebelum run, silakan download model nya melalui link berikut
-[Text link](https://drive.google.com/drive/folders/1bE_y2OT0EaBb6LpzwS0Ph3u32xgpHerV)
+[Model SETARA](https://drive.google.com/drive/folders/1bE_y2OT0EaBb6LpzwS0Ph3u32xgpHerV)
 
 Dan taruh di **/model/Model_IndoBERT_LampungUtara**
 
