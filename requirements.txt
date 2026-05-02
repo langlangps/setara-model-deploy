@@ -24,6 +24,7 @@ packaging==26.1
 pydantic==2.13.2
 pydantic_core==2.46.2
 Pygments==2.20.0
+python-dotenv==1.2.2
 PyYAML==6.0.3
 regex==2026.4.4
 rich==15.0.0
