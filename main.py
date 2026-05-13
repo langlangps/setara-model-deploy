@@ -142,6 +142,10 @@ async def predict(request: BeritaRequest):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Internal Server Error: {str(e)}")
 
+@app.get('/test')
+async def testing():
+    return "Berhasil"
+
 # --- RUN SERVER ---
 if __name__ == "__main__":
     import uvicorn
